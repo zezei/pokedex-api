@@ -1,0 +1,11 @@
+html {
+}
+
+.main-container {
+    height: 100vh;
+  background: rgb(169, 154, 154);
+}
+h1 {
+    font-size: 1.3em;
+    font-weight: bold;
+}
