@@ -15,5 +15,6 @@ import { PokemonController } from './pokemon.controller';
       },
     ]),
   ],
+  exports: [MongooseModule],
 })
 export class PokemonModule {}
