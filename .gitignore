@@ -2,7 +2,6 @@
 /dist
 /node_modules
 /mongo
-
 # Logs
 logs
 *.log
@@ -14,6 +13,7 @@ lerna-debug.log*
 
 # OS
 .DS_Store
+.env
 
 # Tests
 /coverage
